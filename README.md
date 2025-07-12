@@ -111,9 +111,13 @@ Clean coding practices and modular architecture
 AI-readiness for further development
 
 👨‍💻 Author Information
+
 Name: Muhammad Ghous
+
 Role: AI Engineer 
+
 Email: mghous373@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/muhammad-ghous-01ab29255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 GitHub: https://github.com/muhammadghous07
