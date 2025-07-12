@@ -114,7 +114,7 @@ AI-readiness for further development
 
 Name: Muhammad Ghous
 
-Role: AI Engineer 
+Role: AI Engineer & Data Science Enthusiast
 
 Email: mghous373@gmail.com
 
