@@ -110,18 +110,6 @@ Clean coding practices and modular architecture
 
 AI-readiness for further development
 
-👨‍💻 Author Information
-
-Name: Muhammad Ghous
-
-Role: AI Engineer & Data Science Enthusiast
-
-Email: mghous373@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/muhammad-ghous-01ab29255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
-GitHub: https://github.com/muhammadghous07
-
 🏁 Conclusion
 
 This FYDP project showcases real-world web development skills with the use of modern technologies like Next.js, and provides a strong foundation for future AI or ML integration. The app is designed to be production-ready and can be extended for commercial or academic use.
